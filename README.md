@@ -1,7 +1,7 @@
 # class.cloudflare.php
 Basic Cloudflare DNS class written for PHP
 # Usage
-``
+```
 require_once("class.cloudflare.php");
 $apiKey = "abc123";
 $zoneId = "987zxy";
